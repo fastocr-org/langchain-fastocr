@@ -29,7 +29,7 @@ classifiers = [
     "Typing :: Typed",
 ]
 dependencies = [
-    "fastocr-sdk>=0.2.0,<0.3",
+    "fastocr-sdk>=0.2.0,<0.4",
     "langchain-core>=0.3.0",
 ]
 
